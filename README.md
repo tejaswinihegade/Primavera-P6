@@ -83,7 +83,7 @@ This repository presents a collection of Primavera P6 construction scheduling as
 
 **Tejaswini Mahadev Hegade**  
 📍 San Diego State University  
-✉️ *your-email@example.com* (replace with actual email)
+✉️ tejaswinihegade12@gmail.com
 
 ---
 
