@@ -1,4 +1,4 @@
-# Primavera P6 Projects – Construction Scheduling Portfolio
+# Primavera P6 Projects – Construction Scheduling 
 
 This repository presents a collection of Primavera P6 construction scheduling assignments completed as part of the *Construction Scheduling* course at **San Diego State University (SDSU)**. It demonstrates hands-on skills in project planning, resource allocation, critical path analysis, and schedule reporting using Oracle Primavera P6.
 
